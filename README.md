@@ -58,3 +58,5 @@ ROA- real options analysis (анализ реальных опционов)
 [Экологические стандарты в строительстве: как внедрить LEED и BREEAM в России](https://digest.wizardsoft.ru/articles/tech/ekologicheskie-standarty-v-stroitelstve-kak-vnedrit-leed-i-breeam-v-rossii)
 
 ---
+
+(ожидает ревью)
